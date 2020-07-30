@@ -3,7 +3,9 @@ I am Martin and I am glad you are visiting my profile.
 
 #### What do I work with?
 Python - Webscrapping, Automations, pandas, sklearn
+
 C# - Simple GUI using WPF
+
 Node.js - Basic server (and utility) creations, PUG and Express.js
 
 
