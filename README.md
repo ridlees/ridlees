@@ -17,7 +17,7 @@ I am Martin and I am always happy to talk. Feel free to dig through my personal 
 ### When do I work?
 My usual work days starts from 10:00 to 19:00. However, I like to have flexible schedule. I usually reply within 24 hours.
 
-### My goals for 2O20
+### My goals for 2020
 - Improve my German (Ich spreche nicht gut Deutsche)
 - Improve my techwriting
 - Improve my coding abilities
