@@ -37,7 +37,7 @@ My usual work days starts from 10:00 to 19:00. However, I like to have flexible 
 
 #### Fun fact:
 I like to reverse engineer things. For example, the Mc'Donalds reward program here in Czechia has some interesting endpoints :wink:
-
+😊
 <!--
 **ridlees/ridlees** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
