@@ -1,6 +1,14 @@
 ### Hi there 👋
 I am Martin and I am always happy to talk. Feel free to dig through my personal and profesional repos (most of them are personal).
 
+#### What do I do on Github?
+- [DXHeroes Knowledgebase](https://github.com/DXHeroes/knowledge-base-content)
+  - I am adding content to this cool open source knowledgebase
+- Microsoft PowerApps Custom Connectors
+- Personal tools
+- API Samples for tyntec repo
+
+
 #### What do I do? AKA quick CV
 
 :office: Applifting
