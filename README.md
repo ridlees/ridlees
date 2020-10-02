@@ -1,7 +1,7 @@
 ### Hi there 👋
-I am Martin and I am always happy to talk. Feel free to dig through my personal and profesional repos (most of them are personal).
+I am Martin and I am always happy to talk. Feel free to dig through my personal and professional repos (most of them are personal).
 
-#### What do I do on Github?
+#### What do I do on GitHub?
 - [DXHeroes Knowledgebase](https://github.com/DXHeroes/knowledge-base-content)
   - I am adding content to this cool open source knowledgebase
 - Microsoft PowerApps Custom Connectors
@@ -26,11 +26,11 @@ I am Martin and I am always happy to talk. Feel free to dig through my personal 
 My usual work days starts from 10:00 to 19:00. However, I like to have flexible schedule. I usually reply within 24 hours.
 
 ### My goals for 2020
-- Improve my German (Ich spreche nicht gut Deutsche)
-- Improve my techwriting
+- Improve my German (Ich spreche nicht gut Deutsch)
+- Improve my tech writing
 - Improve my coding abilities
-- Spend more time hacking my life (I am into bio-hacking and improving my lifestyle through automatizations)
-- Spend more time on Data Analysis trainings
+- Spend more time hacking my life (I am into bio-hacking and improving my lifestyle through automatization)
+- Spend more time on data analysis trainings
 
 
 <details><summary>### 📫 How to reach me: </summary>
