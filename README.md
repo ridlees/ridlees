@@ -2,17 +2,30 @@
 I am Martin and I am always happy to talk. Feel free to dig through my personal and professional repos (most of them are personal).
 
 #### What do I do on GitHub?
+
+Mainly collect "dead" projects. I got idea - create repo - and one day I will return to it. 
+
+Open source where I contributed:
 - [DXHeroes Knowledgebase](https://github.com/DXHeroes/knowledge-base-content)
-  - I am adding content to this cool open source knowledgebase and editing it
+
+Work repo I managed:
 - [API Samples for tyntec repo](https://github.com/tyntec/api-samples)
-- Personal tools
-- Microsoft PowerApps Custom Connectors
+
+### Tools I like
+- Automation platforms: Microsoft PowerApps (contributor) | Zapier (Contributor) | Make.com (certified user)
+- Flask for simple BEs
+- Learning HTMX for simple FEs
 
 #### What do I do? AKA quick CV
 
 :office: Applifting
  - :calendar: 2020 - Feb, 2024
- - Tech writer medior (_Writing about APIs. Coding tools together. Problem solving_)
+ - Tech Writer medior (_Writing about APIs. Coding tools together. Problem solving. Product work. Informational Architecture_)
+ - Team lead
+
+:office: DX Heroes
+- :calendar: 2020 - Feb, 2024
+- Tech Writer | Editor | Consultant on documentations
  
 :office: Ego Panda
  - :calendar: 2018 - 2020 (July)
