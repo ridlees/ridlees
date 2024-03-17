@@ -11,12 +11,12 @@ Open source where I contributed:
 Work repo I managed:
 - [API Samples for tyntec repo](https://github.com/tyntec/api-samples)
 
-### Tools I like
+#### Tools I like
 - Automation platforms: Microsoft PowerApps (contributor) | Zapier (Contributor) | Make.com (certified user)
 - Flask for simple BEs
 - Learning HTMX for simple FEs
 
-#### What do I do? AKA quick CV
+### What do I do? AKA quick CV
 
 :office: Applifting
  - :calendar: 2020 - Feb, 2024
@@ -31,16 +31,16 @@ Work repo I managed:
  - :calendar: 2018 - 2020 (July)
  - Marketing manager junior and copywriter (_but also handling tech-support, some basics of business analysis, and more_)
 
-:school: Charles Universtity, Faculty of Arts, Political Science
-- :calendar: 2019 - 2023
-- Thesis on African Union in theory of IR
-
 :school: Charles Universtity, Faculty of Arts, Political Theory
 - :calendar: 2023 - Still
 
 :school: Charles Universtity, Faculty of Arts, STUNOME
 - :calendar: 2023 - Still
 - Writing about Amiga demoscene, thinking about writing about Czech internet (specially czfree.net era)
+
+:school: Charles Universtity, Faculty of Arts, Political Science
+- :calendar: 2019 - 2023
+- Thesis on African Union in theory of IR
 
 💬 Ask me about
 - Political theory
