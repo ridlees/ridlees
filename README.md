@@ -11,7 +11,7 @@ I am Martin and I am always happy to talk. Feel free to dig through my personal 
 #### What do I do? AKA quick CV
 
 :office: Applifting
- - :calendar: 2020 - still
+ - :calendar: 2020 - Feb, 2024
  - Tech writer medior (_Writing about APIs. Coding tools together. Problem solving_)
  
 :office: Ego Panda
@@ -19,27 +19,28 @@ I am Martin and I am always happy to talk. Feel free to dig through my personal 
  - Marketing manager junior and copywriter (_but also handling tech-support, some basics of business analysis, and more_)
 
 :school: Charles Universtity, Faculty of Arts, Political Science
-- :calendar: 2019 - still
-- Main interest in Language - Political Idea relationship.
+- :calendar: 2019 - 2023
+- Thesis on African Union in theory of IR
+
+:school: Charles Universtity, Faculty of Arts, Political Theory
+- :calendar: 2023 - Still
+
+:school: Charles Universtity, Faculty of Arts, STUNOME
+- :calendar: 2023 - Still
+- Writing about Amiga demoscene, thinking about writing about Czech internet (specially czfree.net era)
+
+💬 Ask me about
+- Political theory
+- Media theory
+- Fun code projects
 
 ### When do I work?
 My usual work days starts from 10:00 to 19:00. However, I like to have flexible schedule. I usually reply within 24 hours.
 
-### My goals for 2020
-- Improve my German (Ich spreche nicht gut Deutsch)
-- Improve my tech writing
-- Improve my coding abilities
-- Spend more time hacking my life (I am into bio-hacking and improving my lifestyle through automatization)
-- Spend more time on data analysis trainings
-
 
 <details><summary>### 📫 How to reach me: </summary>
 <p>
-
 - Threema RWFERFEY
-- Twitter @KapesniP
-- Email m.j.kodada@gmail.com
-
 </p>
 </details>
 
