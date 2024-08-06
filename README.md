@@ -8,17 +8,29 @@ I am Martin and I am always happy to talk about 💬:
 ### I have interest in 
 - permacomputing, low energy consuptions, sites under 14KB and solar panels
 - building things from scratch so I can learn more
-- making world better place by being active in my communities 
+- making world better place by being active in my communities
+
+<details><summary>Interesting Bookmarks </summary>
+
+- [Solar Website](https://solar.lowtechmagazine.com/about/the-solar-website) --> solar website of amazing lowtechmagazine
+- [Compost party](https://compost.party) --> website hosted on an old android phone.
+- [Why sites should be under 14 KB](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/) --> An interesting piece on optimizing website size
+- [Computers and sustainability](https://100r.co/site/computing_and_sustainability.html) --> how to weave computers with permaculture
+- [Feminist server manifesto](https://hub.xpub.nl/systers/mediawiki/index.php?title=A_Feminist_Server_Manifesto) --> exciting way of dealing of dealing with servers
+- [Solarprotocol - sunthinking](http://solarprotocol.net/sunthinking/index.html) --> computers, art and vision of sun
+
+</details>
 
 #### Tools I like
 - I mainly use python as scripting langauge of my choice. 
 - Flask for simple BEs
-- HTMX for simple FEs
+- HTMX for simple FEs (👷‍♂️CEO of HTMX)
 
 #### Other Gits
 - [Nolog](https://git.nolog.cz/ptak)
 
-<details><summary>### CV </summary>
+### CV 
+<details><summary>Details</summary>
 <p>
 
 🏥 ZZMS
@@ -63,9 +75,10 @@ I am Martin and I am always happy to talk about 💬:
 - Thesis on African Union in theory of Internatonal relations
 - Did corpus of [Karel Havlíček Borovský](https://github.com/ridlees/KHB)
 </p>
-</details>
-
-<details><summary>### 📫 How to reach me: </summary>
+</details
+     
+### 📫 How to reach me:
+<details><summary>Contact me</summary>
 <p>
 - Threema RWFERFEY
 </p>
