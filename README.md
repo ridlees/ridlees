@@ -8,7 +8,7 @@ I am Martin and I am always happy to talk about 💬:
 ### I have interest in 
 - permacomputing, low energy solutions, sites under 14KB and solar panels
 - building things from scratch so I can learn more
-- making world better place by being active in my communities
+- making world a better place by being active in my communities
 
 <details><summary>Interesting Bookmarks </summary>
 
