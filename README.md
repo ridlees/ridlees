@@ -6,7 +6,7 @@ I am Martin and I am always happy to talk about 💬:
      - Fun code projects
 
 ### I have interest in 
-- permacomputing, low energy consuptions, sites under 14KB and solar panels
+- permacomputing, low energy solutions, sites under 14KB and solar panels
 - building things from scratch so I can learn more
 - making world better place by being active in my communities
 
