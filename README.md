@@ -25,6 +25,9 @@ I am Martin and I am always happy to talk about 💬:
 - I mainly use python as scripting langauge of my choice. 
 - Flask for simple BEs
 - HTMX for simple FEs (👷‍♂️CEO of HTMX)
+- Kitty for terminal emulation and yazi for file management
+- Alfred (it makes my Mac so much better)
+- Caffeine (One of the best tools)
 
 #### Other Gits
 - [Nolog](https://git.nolog.cz/ptak)
