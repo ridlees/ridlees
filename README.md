@@ -16,7 +16,7 @@ I am Martin and I am always happy to talk about 💬:
 - [Compost party](https://compost.party) --> website hosted on an old android phone.
 - [Why sites should be under 14 KB](https://endtimes.dev/why-your-website-should-be-under-14kb-in-size/) --> An interesting piece on optimizing website size
 - [Computers and sustainability](https://100r.co/site/computing_and_sustainability.html) --> how to weave computers with permaculture
-- [Feminist server manifesto](https://hub.xpub.nl/systers/mediawiki/index.php?title=A_Feminist_Server_Manifesto) --> exciting way of dealing of dealing with servers
+- [Feminist server manifesto](https://hub.xpub.nl/systers/mediawiki/index.php?title=A_Feminist_Server_Manifesto) --> exciting way of dealing with servers
 - [Solarprotocol - sunthinking](http://solarprotocol.net/sunthinking/index.html) --> computers, art and vision of sun
 
 </details>
