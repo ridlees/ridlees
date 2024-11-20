@@ -38,7 +38,7 @@ I am Martin and I am always happy to talk about 💬:
 
 🏥 ZZMS
 - 📆 Jun, 2024 - Still
-- IT support (_Printers are hell, but I wrote powershell script that makes them little bit managemble in hospital settings_)
+- IT support (_Printers are hell, but I wrote powershell script that makes them little bit more ok in hospital settings_)
 - Medicus support
 - Active Directory, Exchange and other Microsoft tools
 
